@@ -2,7 +2,7 @@
 Analyze  a sales data with Pivot Table and provided some insightful observations
 # Sales Analysis by Product and Region
 
-![Pivot Table](./adb29589-10d5-44e7-a66d-c77a229ac916.png)
+![Pivot Table](./Default Sheet Image.png)
 
 This analysis is based on the Pivot Table showing the percentage contribution of each product to total sales across four regions: East, North, South, and West.
 
